@@ -1,4 +1,4 @@
-// copy and paste in class exercise stuff
+// copy and paste from stuff done in class
 var express = require('express');
 var bodyParser = require('body-parser');
 
